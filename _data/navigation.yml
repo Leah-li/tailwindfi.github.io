@@ -1,6 +1,6 @@
-- title: Startti
-  url: "/"
-  side: left
+#- title: Startti
+#  url: "/"
+#  side: left
 
 - title: Getting Started
   url: "/getting-started/"
