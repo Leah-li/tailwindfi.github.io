@@ -45,7 +45,6 @@ $warning-color: $ci-4;
 $info-color: $ci-1;
 
 
-
 /* Grey Scale
 ------------------------------------------------------------------- */
 
@@ -73,7 +72,7 @@ $grey-16: #0B0B0B;
 
 $topbar-bg-color: #fff;
 
-$topbar-dropdown-toggle-color: $ci-1;
+$topbar-dropdown-toggle-color: $grey-1;
 
 $topbar-link-color: #000;
 $topbar-link-color-hover: #000;
@@ -88,7 +87,7 @@ $topbar-link-bg-hover: $ci-6;
 $topbar-link-bg-active-hover: $ci-2;
 
 
-$topbar-dropdown-bg: $ci-6; // Background Mobile Navigation
+$topbar-dropdown-bg: $grey-1; // Background Mobile Navigation
 $topbar-dropdown-link-color: #000;
 $topbar-dropdown-link-bg: $ci-2;
 
