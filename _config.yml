@@ -8,21 +8,21 @@
 #                                                 /____/        
 #
 # Title of your website
-title: "Tailwind"
+title: "Leah's Swing Dance"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: ""
+slogan: "像想家一样想你"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "»Tailwind« is a lorem ipsum"
+description: "My first website."
 
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "https://tailwindfi.github.io"
-baseurl: ""
+url: "https://leah.li"
+baseurl: "http://leah.li"
 
 # This is for the editing function in _/includes/improve_content.html
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -34,7 +34,7 @@ baseurl: ""
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-urlimg: "http://tailwindfi.github.io/images/"
+urlimg: "http://Leah-li.github.io/images/"
 
 
 # Logo size is 600x80 pixels
@@ -87,7 +87,7 @@ defaults:
       show_meta: true 	# Show metadata beneath all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: "Joni Palomäki"
+      author: "Leah Li"
   -
     scope:
       path: ""        
@@ -96,7 +96,7 @@ defaults:
       show_meta: true   # Show metadata beneath all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: "Joni Palomäki"
+      author: "Leah Li"
 
 
 
